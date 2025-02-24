@@ -1,5 +1,5 @@
 Name:		copr-wx
-Version:	0.0.1
+Version:	0.0.2
 Release:	2
 Summary:	python3-copr_wxpython launcher
 Group:		Applications/Engineering
